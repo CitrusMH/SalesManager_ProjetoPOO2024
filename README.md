@@ -3,11 +3,7 @@
 Sales Manager é um gestor de produtos, clientes e pedidos desenvolvido com SpringData e Thymeleaf.
 
 ## Integrantes
-Matheus Henrique Melo Lemes da Silva
-Lucca Bellini Pena
-Danielle Rachel Rios Moreira
-Nicolas Luis Barbosa Bulhões
-Alexandre Cavalcante da Silva
+Matheus Henrique Melo Lemes da Silva, Lucca Bellini Pena, Danielle Rachel Rios Moreira, Nicolas Luis Barbosa Bulhões e Alexandre Cavalcante da Silva
 
 ## Descrição
 
@@ -18,6 +14,10 @@ Este projeto tem como objetivo gerenciar produtos, clientes e pedidos dentro de 
 - **Gerenciamento de Produtos:** Adicionar, editar, remover e visualizar produtos.
 - **Gerenciamento de Clientes:** Adicionar, editar, remover e visualizar clientes.
 - **Gerenciamento de Pedidos:** Criar, editar, remover e visualizar pedidos.
+
+## Diagrama de Classe
+
+![alt text](https://raw.githubusercontent.com/CitrusMH/SalesManager_ProjetoPOO2024/main/Diagrama%20de%20Classes.png)
 
 ## Instruções de Instalação
 
